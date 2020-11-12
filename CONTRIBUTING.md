@@ -81,7 +81,7 @@ Content-Type: application/json
 - Use the present tense: "Change ...", not "Changed ..."
 - Use the imperative mood: "Change ...", not "Changes ..."
 - Limit the first line to 72 characters or less
-- Reference issues and pull requests liberally
+- Reference issues and pulls requests liberally
 
 ## Pull requests
 Pull requests serve as the primary mechanism by which contributions are proposed and accepted. We recommend creating a [topic branch][topic-branch] and sending a pull request to the `vNext` branch from the topic branch. For additional guidance, read through the [GitHub Flow Guide][github-flow-guide].
